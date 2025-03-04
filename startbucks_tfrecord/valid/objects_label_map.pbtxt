@@ -1,0 +1,75 @@
+item {
+    name: "bagel",
+    id: 1,
+    display_name: "bagel"
+}
+item {
+    name: "cheese_cake",
+    id: 2,
+    display_name: "cheese_cake"
+}
+item {
+    name: "croissant",
+    id: 3,
+    display_name: "croissant"
+}
+item {
+    name: "fruit_cake",
+    id: 4,
+    display_name: "fruit_cake"
+}
+item {
+    name: "macaron",
+    id: 5,
+    display_name: "macaron"
+}
+item {
+    name: "muffin",
+    id: 6,
+    display_name: "muffin"
+}
+item {
+    name: "mug",
+    id: 7,
+    display_name: "mug"
+}
+item {
+    name: "scone",
+    id: 8,
+    display_name: "scone"
+}
+item {
+    name: "square_sandwich",
+    id: 9,
+    display_name: "square_sandwich"
+}
+item {
+    name: "takeout_hot",
+    id: 10,
+    display_name: "takeout_hot"
+}
+item {
+    name: "takeout_ice",
+    id: 11,
+    display_name: "takeout_ice"
+}
+item {
+    name: "tiramisu",
+    id: 12,
+    display_name: "tiramisu"
+}
+item {
+    name: "tray",
+    id: 13,
+    display_name: "tray"
+}
+item {
+    name: "triangle_sandwich",
+    id: 14,
+    display_name: "triangle_sandwich"
+}
+item {
+    name: "tumbler",
+    id: 15,
+    display_name: "tumbler"
+}
